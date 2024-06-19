@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(201, 136, 136);
+}
+
+#corpo{
+    text-align: center;
+    font-family: Lucida sans;
+}
+img{
+    height: 300px;
+    width: 500px;
+    border: 7px solid;
+    border-radius: 10px;
+    border-color: rgb(68, 63, 52);
+    box-shadow: 10px 5px 5px black;
+}
+
+button{
+    border-radius: 15px;
+    background-color: pink;
+}
